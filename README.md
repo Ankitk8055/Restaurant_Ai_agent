@@ -1,7 +1,7 @@
 ### Agent Flow 
  
 The restaurant order management agent is built using LangGraph. The LLM acts as the central decision-making node and controls the workflow based on the current order status and available retries.
-
+ 
 1. User provides a food order.
 2. The LLM extracts the dish name and quantity.
 3. `order_confirm` checks the requested item against the menu and available stock.
