@@ -1,7 +1,7 @@
 """
 Restaurant order management agent built with LangGraph.
 
-Flow: 
+Flow:  
     user_input -> llm -> order_confirm -> llm -> cook -> llm -> serve -> llm -> END
 
 The `llm` node is the "brain": every other node reports back to it by writing
