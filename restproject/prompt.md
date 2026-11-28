@@ -1,4 +1,4 @@
-I am building a restaurant order managament ai agent system using langgraph.
+I am building a restaurant order managament ai agent system using langgraph. 
  
 I will explai you very clearly what i want and what is the architecture. i will also explain you the nodes the state and the edges.
 In the end i will give you test cases to simulate and to tell me whether they pass or not.
